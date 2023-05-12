@@ -1,8 +1,7 @@
-# JavaScript: validacoes e reconhecimento de voz
-> Jogo de acertar a palavra secreta
+# Jogo de acertar a palavra secreta
 
 ## Iniciar a aplicação
-> acessar a pasta servidor
+> acessar a pasta local
 - php -S 0.0.0.0:3000
 - localhost:3000
 
