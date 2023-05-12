@@ -17,8 +17,6 @@ elementoMaiorValor.innerHTML = maiorValor
 /** atribuindo a const p/ função  */
 const numeroSecreto = gerarNumeroAleatorio()
 
-console.log(numeroSecreto)
-
 /** gera valores de números aleatórios */
 function gerarNumeroAleatorio() {
     return parseInt(Math.random() * maiorValor + 1) /** gerando numero aletatório e convertendo o valor p/ número inteiro */

@@ -6,6 +6,12 @@
     --primary-color: #E8F9FD;
 }
 
+h4 {
+    font-size: large;
+    margin-bottom: revert;
+}
+
+
 body {
     background-color: var(--bg-color);
     color: var(--primary-color);
