@@ -1,4 +1,5 @@
-# Jogo de acertar a palavra secreta
+# Descubra o n
+> Jogo de acertar a palavra secreta
 
 ## Iniciar a aplicação
 > acessar a pasta local
