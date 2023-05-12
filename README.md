@@ -1,4 +1,4 @@
-# Descubra o n
+# Descubra o numero secreto
 > Jogo de acertar a palavra secreta
 
 ## Iniciar a aplicação
