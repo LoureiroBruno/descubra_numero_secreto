@@ -1,5 +1,5 @@
 # Descubra o numero secreto
-> Jogo de acertar a palavra secreta
+> Jogo com o inttuíto de descobrir o número secreto na interatividade com a voz 
 
 ## Iniciar a aplicação
 > acessar a pasta local
